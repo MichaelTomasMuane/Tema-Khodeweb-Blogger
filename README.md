@@ -36,6 +36,27 @@ Performance: `Estilos centralizados` `Scripts organizados` `optimizado para carr
 
 Boas Práticas Aplicadas: `Mobile responsive ` `Cross-browser` `Sem dependências de Plugins`
 
+## Como instalar
+
+### Pré-requisitos 
+tenha uma conta activa do google, entre e criei um novo blog no google blogger (Tenha acesso ao paínel e uma conta administrativa).
+
+Passo 1: Baixar o Tema
+
+Aceda ao repositório do projeto
+Faça download do ficheiro Protofólio-versão-2.xml
+Guarde numa pasta acessível no seu computador
+
+Passo 2: Importar no Blogger
+
+Aceda ao Blogger.com
+Selecione o seu blog
+No menu lateral, clique em Tema
+Clique no botão ⋮ (três pontos) ao lado de "Personalizar"
+Selecione Restaurar > Carregar
+Escolha o ficheiro Protofólio-versão-2.xml
+Clique em Carregar
+
 ## Conclusão
 
 O **Khoweweb Blogger** é um tema blogger robusto, completo e profissional, bem estruturado e tecnicamente sólido, explorando ao máximo as capacidades do Google Blogger mas matendo uma fácil instalação e configuração com código organizado para fácil escalábilidade, organização e com funcionalidade modernas.
